@@ -1,1 +1,3 @@
-This is my React based Ecommerce Project named Shopssy.
+This is my React based Ecommerce Project named Shoppy.
+
+
